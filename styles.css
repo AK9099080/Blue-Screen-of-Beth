@@ -1,9 +1,9 @@
-body {
-    height: 100vh;
-    font-family: 'Segoe UI';
-    background-color: #0874d4;
-    color: white;
-    overflow: hidden;
+body { 
+  height: 100vh; 
+  font-family: 'Segoe UI'; 
+  background: url('your-image-url.jpg') no-repeat center center / cover; 
+  color: white; 
+  overflow: hidden; 
 }
 
 .bsod {
